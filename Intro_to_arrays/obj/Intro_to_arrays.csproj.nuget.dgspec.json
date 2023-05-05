@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\c-sharp-codes\\girrafe\\Intro_to_arrays\\Intro_to_arrays.csproj": {}
+  },
+  "projects": {
+    "D:\\c-sharp-codes\\girrafe\\Intro_to_arrays\\Intro_to_arrays.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c-sharp-codes\\girrafe\\Intro_to_arrays\\Intro_to_arrays.csproj",
+        "projectName": "Intro_to_arrays",
+        "projectPath": "D:\\c-sharp-codes\\girrafe\\Intro_to_arrays\\Intro_to_arrays.csproj",
+        "packagesPath": "C:\\Users\\stone\\.nuget\\packages\\",
+        "outputPath": "D:\\c-sharp-codes\\girrafe\\Intro_to_arrays\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
