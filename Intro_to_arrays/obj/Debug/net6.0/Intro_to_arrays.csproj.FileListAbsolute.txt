@@ -1,0 +1,15 @@
+D:\c-sharp-codes\girrafe\Intro_to_arrays\bin\Debug\net6.0\Intro_to_arrays.exe
+D:\c-sharp-codes\girrafe\Intro_to_arrays\bin\Debug\net6.0\Intro_to_arrays.deps.json
+D:\c-sharp-codes\girrafe\Intro_to_arrays\bin\Debug\net6.0\Intro_to_arrays.runtimeconfig.json
+D:\c-sharp-codes\girrafe\Intro_to_arrays\bin\Debug\net6.0\Intro_to_arrays.dll
+D:\c-sharp-codes\girrafe\Intro_to_arrays\bin\Debug\net6.0\Intro_to_arrays.pdb
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.csproj.AssemblyReference.cache
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.AssemblyInfoInputs.cache
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.AssemblyInfo.cs
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.csproj.CoreCompileInputs.cache
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.dll
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\refint\Intro_to_arrays.dll
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.pdb
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\Intro_to_arrays.genruntimeconfig.cache
+D:\c-sharp-codes\girrafe\Intro_to_arrays\obj\Debug\net6.0\ref\Intro_to_arrays.dll
